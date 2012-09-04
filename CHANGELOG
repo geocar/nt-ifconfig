@@ -1,0 +1,22 @@
+2005-12-19 11:59  geocar
+
+	* Makefile, deploy.sh, ifconfig.c: bugfixes for multiple adapters,
+	  move deploy
+
+2004-08-16 19:17  geocar
+
+	* ifconfig.c: bugfix: can now specify subnet mask
+
+2004-08-09 22:53  geocar
+
+	* Makefile, ifconfig.c: fix so /del doesn't kill default route, and
+	  deploy code
+
+2003-05-16 15:49  geocar
+
+	* Makefile, ifconfig.c: Initial revision
+
+2003-05-16 15:49  geocar
+
+	* Makefile, ifconfig.c: Loaded into CVS
+

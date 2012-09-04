@@ -1,0 +1,4 @@
+This is an implementation of ifconfig for Windows.
+
+It was more useful in Windows NT (4) when netsh didn't exist yet,
+but now it's probably obsolete.
